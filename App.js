@@ -182,7 +182,7 @@ export default function App() {
         {showLimit && (
           <View style={styles.popupWrap} pointerEvents="box-none">
             <View style={styles.popup}>
-              <Text style={styles.popupTitle}>OOPS 😢</Text>
+              <Text style={styles.popupTitle}>OOPS 🙁</Text>
               <Text style={styles.popupMsg}>
                 i added this so people dont spam the api LMFAO. please take a break and slow down. 
               </Text>
